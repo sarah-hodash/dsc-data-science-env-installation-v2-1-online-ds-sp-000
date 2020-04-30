@@ -291,3 +291,4 @@ You’ll then have to hit “y” and return to confirm that you want to close d
 ## Summary
 
 Congratulations! If you've gotten this far and everything has worked, you have successfully installed Git and Anaconda on your computer! Next, you'll learn what a virtual environment is and set one up!
+
